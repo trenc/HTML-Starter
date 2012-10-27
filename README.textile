@@ -1,0 +1,3 @@
+h1. HTML-Starter
+
+This is my HTML starter pack. It contains my file structure for the assets as CSS files, background images and JavaScript files. The start.html contains some useful base HTML5 elements (mostly stolen from the famous HTML5-Boilerplate) and the CSS contains the normalizr and some base stylesheets I often use.
